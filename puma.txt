@@ -1,0 +1,33 @@
+Summary:
+  Total:  31.8033 secs.
+  Slowest:  2.2125 secs.
+  Fastest:  0.0134 secs.
+  Average:  0.3164 secs.
+  Requests/sec: 314.4326
+  Total Data Received:  1474560000 bytes.
+  Response Size per Request:  147456 bytes.
+
+Status code distribution:
+  [200] 10000 responses
+
+Response time     histogram:
+  0.013   [1]     |
+  0.233   [4516]  |∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.453   [3509]  |∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.673   [1158]  |∎∎∎∎∎∎∎∎∎∎
+  0.893   [453]   |∎∎∎∎
+  1.113   [207]   |∎
+  1.333   [93]    |
+  1.553   [37]    |
+  1.773   [15]    |
+  1.993   [10]    |
+  2.212   [1]     |
+
+Latency distribution:
+  10% in 0.0884 secs.
+  25% in 0.1502 secs.
+  50% in 0.2557 secs.
+  75% in 0.3975 secs.
+  90% in 0.6197 secs.
+  95% in 0.8091 secs.
+  99% in 1.2401 secs.

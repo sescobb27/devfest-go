@@ -1,0 +1,31 @@
+Summary:
+  Total:  23.9975 secs.
+  Slowest:  0.2766 secs.
+  Fastest:  0.0263 secs.
+  Average:  0.2389 secs.
+  Requests/sec: 416.7104
+
+Status code distribution:
+  [200] 10000 responses
+
+Response time   histogram:
+  0.026  [1]     |
+  0.051  [8]     |
+  0.076  [8]     |
+  0.101  [10]    |
+  0.126  [10]    |
+  0.151  [11]    |
+  0.176  [9]     |
+  0.201  [8]     |
+  0.227  [228]   |
+  0.252  [9246]  |∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.277  [461]   |∎
+
+Latency distribution:
+  10% in 0.2294 secs.
+  25% in 0.2358 secs.
+  50% in 0.2401 secs.
+  75% in 0.2431 secs.
+  90% in 0.2466 secs.
+  95% in 0.2509 secs.
+  99% in 0.2640 secs.
